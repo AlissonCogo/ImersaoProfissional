@@ -1,15 +1,6 @@
 
-# UnicesuBlog - Projeto para a Disciplina de Imersão Profissional
+Imersão Profissional
 
-## Aplicação com TypeScript, Express e MySQL
-
-### Documento de Requisitos
-
-Especificação de Requisitos e Avaliação Bimestral
-
-Video de como funcionar o sistema [https://youtu.be/dliA9qIJ2lc]
-
----
 
 ## Passo 1: Configuração Inicial do Projeto com TypeScript
 
